@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Apparently I added a bunch of bullshit to the repository.
+
 # C extensions
 *.so
 
